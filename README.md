@@ -13,11 +13,11 @@ Standalone server for VCF files annotated with RefSeq, dbSNP, ExAC, ClinVar, 100
 * It is free for academic use. Please read EULA [here](http://alapy.com/alapy-genome-explorer-eula/).
 
 Installation
-* We provide installation scripts for Linux systems [here](https://github.com/ALAPY/AGx).
+* We provide installation scripts for Linux systems [here](https://github.com/ALAPY/AGx/tree/master/Scripts).
 * We provide installation wiki [here](https://github.com/ALAPY/AGx/wiki/Installation-of-ALAPY-Genome-Explorer-(AGx)).
 
 Running 
-* We provide scripts needed to start the server and add users on Linux systems [here](https://github.com/ALAPY/AGx).
+* We provide scripts needed to start the server and add users on Linux systems [here](https://github.com/ALAPY/AGx/tree/master/Scripts).
 
 Usage
 * Please refer to our FAQ [here](http://alapy.com/faq/) and tutorials on ALAPY [YouTube](https://www.youtube.com/channel/UCTg8702cwKbF14wA8G_jXVQ ) channel.
